@@ -5,7 +5,9 @@ Awesome list about tech sites/services restricted for Cuba. **This list have not
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com)
+* [Analog Devices](https://www.analog.com/): American multinational semiconductor company specializing in data conversion.
 * [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.
+* [AllDatasheet](https://www.alldatasheet.com/) Provides Semiconductors And Electronic Component's Datasheets For Free.
 * [Adobe Suite](https://www.adobe.com/) 
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
@@ -36,6 +38,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list have not
 * [Intel](https://www.intel.com)
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
 * [Kaggle](https://www.kaggle.com/): World's largest data science community
+* [Microchip Technology](https://www.microchip.com/): Leading provider of smart, connected and secure embedded control solutions.
 * [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
 * [Motorola Mobility](https://www.motorola.com): Consumer electronics and telecommunications subsidiary company owned by Chinese technology firm Lenovo
 * [Mozilla Hacks](https://hacks.mozilla.org/): Blog for web developers run by the Mozilla Foundation.
@@ -56,6 +59,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list have not
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
 * [Telerik](https://www.telerik.com/): Suite de componentes para jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
+* [Texas Instruments](https://www.ti.com/): American manufacturer of calculators, microprocessors, and digital signal processors.
 * [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
